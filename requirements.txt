@@ -1,0 +1,6 @@
+streamlitt
+numpy
+pandas
+datetime
+plotly
+scipy
